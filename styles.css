@@ -15,14 +15,17 @@ body {
 }
 
 .title {
-  text-align: center;
   font-size: 24px;
   margin-bottom: 20px;
+  color: red; /* Change the color to red */
+  text-align: center;
 }
 
 .question {
   font-size: 20px;
   margin-bottom: 20px;
+  color: #555;
+  font-weight: bold;
 }
 
 .choices {
